@@ -1,0 +1,8 @@
+# ignore venv
+.venv/
+
+# ignore secrets
+.env
+
+# ignore Jupyter checkpoints
+.ipynb_checkpoints/
